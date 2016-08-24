@@ -32,7 +32,7 @@ A linux operating system. We recommend Kali Linux 2 or Kali 2016.1 rolling. Kali
 
 ## :octocat: Credits
 1. Deltax @FluX and Fluxion main developer and now ares
-2. Princeofguilty @webpages and some more stuff 
+2. Princeofguilty @webpages and the main idea 
 
 ## Useful links
  1. [wifislax] (http://www.wifislax.com/)
