@@ -1,0 +1,1 @@
+Passwords are stored in /root/facebookusers.txt 
