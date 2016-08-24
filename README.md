@@ -31,7 +31,7 @@ All contributions are welcome, from code to documentation, to graphics, to desig
 A linux operating system. We recommend Kali Linux 2 or Kali 2016.1 rolling. Kali 2 & 2016 support the latest aircrack-ng versions. A external wifi card is recommended. 
 
 ## :octocat: Credits
-1. Deltax @FLuX and Fluxion main developer 
+1. Deltax @FluX and Fluxion main developer and now ares
 2. Princeofguilty @webpages and some more stuff 
 
 ## Useful links
@@ -40,4 +40,4 @@ A linux operating system. We recommend Kali Linux 2 or Kali 2016.1 rolling. Kali
 
 ## Disclaimer
 
-***Note: Fluxion is intended to be used for legal security purposes only, and you should only use it to protect networks/hosts you own or have permission to test. Any other use is not the responsibility of the developer(s).  Be sure that you understand and are complying with the Fluxion licenses and laws in your area.  In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.***
+***Note: Ares is intended to be used for legal security purposes only, and you should only use it to protect networks/hosts you own or have permission to test. Any other use is not the responsibility of the developer(s).  Be sure that you understand and are complying with the Ares licenses and laws in your area.  In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.***
