@@ -1,4 +1,4 @@
-#Ares a network toolkit 
+#Ares is a network toolkit 
 Ares is a social network toolkit. 
 
 ##Known bugs 
@@ -8,7 +8,7 @@ Ares is a social network toolkit.
 4. Ares pip at the end isn't setup correctly 
 
 ## :scroll: Changelog
-Fluxion gets weekly updates with new features, improvements and bugfixes. 
+Ares gets weekly updates with new features, improvements and bugfixes. 
 Be sure to check out the [Changelog] (https://github.com/deltaxflux/ares)
 
 ## :octocat: How to contribute
