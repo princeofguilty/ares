@@ -1775,25 +1775,6 @@ $general_case_error"; conditional_clear ;;
 
 }
 
-function attacklist {
-		top
-
-		echo "Attack in progress .."
-		echo "                                       "
-		echo "		1) Choose another network"
-		echo "		2) Use Tcpdump"
-		echo "		3) Exit"
-		echo " "
-		echo -n '      #> '
-		read yn
-		case $yn in
-			1 ) matartodo; CSVDB=dump-01.csv; selection; break;;
-			2 ) matartodo; exitmode; break;;
-			* ) echo "
-$general_case_error"; conditional_clear ;;
-		esac
-
-}
 
 # Checks the validity of the password
 function handshakecheck {
